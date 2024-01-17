@@ -4,7 +4,6 @@ import numpy as np
 import itertools
 import os
 q=symbols('q')
-# '/Users/tinglu/Desktop/Computational_code'
 
 ############# data:
 A1 = np.array([[1, 0, 0], [0, 1, 0], [0, 0, 1]])
